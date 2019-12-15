@@ -1,0 +1,6 @@
+odm/etc/firmware/ts/JHSN690000_AFT_param.csv
+odm/etc/firmware/ts/JHSN691300_AFT_param.csv
+odm/etc/firmware/ts/JHSN771100_AFT_param.csv
+odm/etc/firmware/ts/JHSN771300_AFT_param.csv
+odm/etc/firmware/ts/JHSN771400_AFT_param.csv
+odm/etc/firmware/ts/JHSN861300_AFT_param.csv
