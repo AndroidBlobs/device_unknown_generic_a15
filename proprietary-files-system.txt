@@ -1,0 +1,5 @@
+odm/etc/firmware/ts/JACK690000_AFT_param.csv
+odm/etc/firmware/ts/JACK691300_AFT_param.csv
+odm/etc/firmware/ts/JACK771100_AFT_param.csv
+odm/etc/firmware/ts/JACK771300_AFT_param.csv
+odm/etc/firmware/ts/JACK771400_AFT_param.csv
