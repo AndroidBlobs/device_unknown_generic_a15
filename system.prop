@@ -1,0 +1,29 @@
+ro.bootimage.build.date=Thu Dec 5 16:49:05 CST 2019
+ro.bootimage.build.date.utc=1575535745
+ro.bootimage.build.fingerprint=Huawei/generic_a15/generic_a15:9/PPR1.180610.011/root201912051646:user/test-keys
+#
+# from device/emui/generic_a15/system.prop
+#
+persist.sys.cpuset.enable=1
+persist.sys.cpuset.subswitch=16
+persist.sys.iaware.cpuenable=true
+persist.sys.fast_h_duration=2000
+persist.sys.fast_h_max=50
+persist.sys.max_rdh_delay=0
+ro.config.enable_rcc=true
+ro.config.hw_sensorhub=true
+system_init.hwextdeviceservice=1
+bastet.service.enable=true
+dalvik.vm.boot-dex2oat-threads=4
+#
+# from device/hisi/kirin/system.prop
+#
+dalvik.vm.checkjni=false
+persist.sys.jankenable=true
+odm.bastet.service.enable=true
+config.disable_consumerir=true
+ro.audio.offload_wakelock = false
+ro.kirin.config.callinwifi=200,6
+persist.sys.adoptable=force_on
+
+#

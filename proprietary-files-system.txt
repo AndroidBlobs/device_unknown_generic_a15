@@ -1,0 +1,1 @@
+odm/etc/firmware/ts/CLTE500900_AFT_param.csv
