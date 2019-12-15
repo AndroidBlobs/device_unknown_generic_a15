@@ -1,0 +1,13 @@
+odm/etc/firmware/ts/EMLY590800_AFT_param.csv
+odm/etc/firmware/ts/EMLY591000_AFT_param.csv
+odm/etc/firmware/ts/EMLY591300_AFT_param.csv
+odm/etc/firmware/ts/EMLY591600_AFT_param.csv
+odm/etc/firmware/ts/EMLY600800_AFT_param.csv
+odm/etc/firmware/ts/EMLY600801_AFT_param.csv
+odm/etc/firmware/ts/EMLY601600_AFT_param.csv
+odm/etc/firmware/ts/EMLY601601_AFT_param.csv
+odm/etc/firmware/ts/EMLY611000_AFT_param.csv
+odm/etc/firmware/ts/EMLY620800_AFT_param.csv
+odm/etc/firmware/ts/EMLY621600_AFT_param.csv
+odm/etc/firmware/ts/EMLY651000_AFT_param.csv
+odm/etc/firmware/ts/EMLY661300_AFT_param.csv
