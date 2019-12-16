@@ -1,0 +1,9 @@
+odm/etc/firmware/ts/florida_fts_flor53030_mutto.img
+odm/etc/firmware/ts/florida_fts_flor53030_mutto_limits.csv
+odm/etc/firmware/ts/florida_gt1x_1158.bin
+odm/etc/firmware/ts/florida_gt1x_flor54000_ofilm.img
+odm/etc/firmware/ts/florida_gt1x_flor54000_ofilm_limits.csv
+product/etc/firmware/ts/ALPS470800_AFT_param.csv
+product/etc/firmware/ts/ALPS470800_caplimit_default.csv
+product/etc/firmware/ts/ALPS491000_AFT_param.csv
+product/etc/firmware/ts/ALPS491600_AFT_param.csv
